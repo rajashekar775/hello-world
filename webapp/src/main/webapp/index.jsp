@@ -4,7 +4,7 @@
 <style>
 .center {
   text-align: center;
-  color: red;
+  color: white;
   background-color: MediumSeaGreen;
 }
 </style>
