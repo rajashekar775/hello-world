@@ -5,7 +5,7 @@
 .center {
   text-align: center;
   color: red;
-  background-color: powderblue;
+  background-color: MediumSeaGreen;
 }
 </style>
 </head>
