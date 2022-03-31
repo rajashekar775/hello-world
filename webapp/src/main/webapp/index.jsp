@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body> style="background-color:powderblue;"</body>
 <style>
 .center {
   text-align: center;
   color: red;
+  background-color: powderblue;
 }
 </style>
 </head>
