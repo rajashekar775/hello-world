@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1 class="center">Hello, Welcome to Simple DevOps Project !!</h1>
-<p class="center">Deployed to through ansible from docker registry third time on 31032022</p> 
+<p class="center">Deployed to through ansible from docker registry third time on 11042022</p> 
 
 </body>
 </html>
